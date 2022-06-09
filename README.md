@@ -1,5 +1,5 @@
 # saahitya
-![Screenshot_2022-06-09-10-42-30-795_host exp exponent](https://user-images.githubusercontent.com/62249788/172778135-c824b409-6ec2-429c-ae27-7d44850bc93c.jpg)
+![Screenshot_2022-06-09-10-42-30-795_host exp exponent](https://user-images.githubusercontent.com/62249788/172778135-c824b409-6ec2-429c-ae27-7d44850bc93c.jpg width="200" height="200")
 ![Screenshot_2022-06-09-10-42-37-509_host exp exponent](https://user-images.githubusercontent.com/62249788/172778152-4cfc948b-8aca-4d37-89ba-8f6df1cd3018.jpg)
 ![Screenshot_2022-06-09-10-44-41-146_host exp exponent](https://user-images.githubusercontent.com/62249788/172778156-976b83cb-ef39-40c0-ac13-86202fc0e8cd.jpg)
 ![Screenshot_2022-06-09-10-45-06-930_host exp exponent](https://user-images.githubusercontent.com/62249788/172778160-6324ad9f-5a28-44bc-8aa3-ee868f5053fb.jpg)
